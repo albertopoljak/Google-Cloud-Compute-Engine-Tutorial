@@ -29,7 +29,7 @@ Currently (November 2019) when you register you will get 300$ of credit that las
 
 **You will always have free tier available! It is a separate offer! Not to be confused with 300$ offer!**
 
-#Important (ye this is very important, people are confused about this all the time):
+# Important (ye this is very important, people are confused about this all the time):
 
 > When you register, your account is on a trial period (1 year) and cannot be charged. You need to update to PAID
 account in order for your credit card to be charged. Currently only thing that's going to be charged are your free credits.
